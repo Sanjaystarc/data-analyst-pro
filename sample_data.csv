@@ -1,0 +1,31 @@
+order_id,date,product,category,region,sales,quantity,profit,customer_age,customer_gender
+1001,2024-01-05,Laptop Pro,Electronics,North,1200.00,1,240.00,34,Male
+1002,2024-01-07,Office Chair,Furniture,South,350.00,2,70.00,45,Female
+1003,2024-01-08,Wireless Mouse,Electronics,East,45.00,5,9.00,28,Male
+1004,2024-01-10,Standing Desk,Furniture,West,650.00,1,130.00,52,Female
+1005,2024-01-12,Mechanical Keyboard,Electronics,North,120.00,3,36.00,30,Male
+1006,2024-01-15,Monitor 4K,Electronics,South,400.00,2,80.00,41,Female
+1007,2024-01-18,Notebook Set,Stationery,East,25.00,10,7.50,23,Male
+1008,2024-01-20,Ergonomic Chair,Furniture,West,520.00,1,104.00,38,Female
+1009,2024-01-22,USB Hub,Electronics,North,35.00,8,10.50,26,Male
+1010,2024-01-25,Desk Lamp,Furniture,South,60.00,4,18.00,49,Female
+1011,2024-02-01,Laptop Pro,Electronics,East,1200.00,2,480.00,36,Male
+1012,2024-02-03,Wireless Headphones,Electronics,West,200.00,3,60.00,31,Female
+1013,2024-02-05,Pen Set,Stationery,North,15.00,20,6.00,22,Male
+1014,2024-02-08,Gaming Chair,Furniture,South,450.00,1,90.00,27,Female
+1015,2024-02-10,Tablet,Electronics,East,600.00,2,120.00,43,Male
+1016,2024-02-14,Bookshelf,Furniture,West,180.00,1,36.00,55,Female
+1017,2024-02-16,Webcam HD,Electronics,North,80.00,6,24.00,29,Male
+1018,2024-02-18,Sticky Notes,Stationery,South,8.00,50,4.00,24,Female
+1019,2024-02-20,Monitor Stand,Furniture,East,95.00,3,28.50,37,Male
+1020,2024-02-22,Smartphone,Electronics,West,900.00,2,180.00,33,Female
+1021,2024-03-01,Laptop Pro,Electronics,North,1200.00,3,720.00,40,Male
+1022,2024-03-04,Office Chair,Furniture,South,350.00,4,140.00,48,Female
+1023,2024-03-06,Drawing Tablet,Electronics,East,300.00,1,60.00,25,Male
+1024,2024-03-09,Filing Cabinet,Furniture,West,220.00,2,44.00,53,Female
+1025,2024-03-12,Wireless Mouse,Electronics,North,45.00,10,22.50,32,Male
+1026,2024-03-15,External SSD,Electronics,South,150.00,4,45.00,44,Female
+1027,2024-03-18,Highlighters,Stationery,East,12.00,30,5.40,21,Male
+1028,2024-03-20,Desk Organizer,Furniture,West,40.00,7,14.00,35,Female
+1029,2024-03-22,Smart Speaker,Electronics,North,120.00,5,36.00,39,Male
+1030,2024-03-25,Printer,Electronics,South,280.00,2,56.00,46,Female
