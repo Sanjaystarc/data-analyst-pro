@@ -147,7 +147,7 @@ User (Streamlit UI)
 
 ---
 
-## 🆓 Free Tier Limits (Gemini 1.5 Flash)
+## 🆓 Free Tier Limits (Gemini 2.5 Flash)
 - 15 requests per minute
 - 1 million tokens per minute
 - 1,500 requests per day
